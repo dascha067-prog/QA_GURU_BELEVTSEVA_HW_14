@@ -3,7 +3,7 @@
 > <a target="_blank" href="https://demoqa.com/books">Ссылка на сайт</a>
 
 
-![This is an image](media/image/site_testing.png)
+![site_testing.png](media/image/site_testing.png)
 
 ---
 <h3> Список проверок, реализованных в автотестах:</h3>
