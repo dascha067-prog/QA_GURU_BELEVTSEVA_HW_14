@@ -40,7 +40,7 @@
 
 #### Для запуска автотестов в Jenkins
 
-1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/hw_diplom_Vladimir/">Проект в Jenkins</a>
+1. Открыть [Проект в Jenkins](https://jenkins.autotests.cloud/job/qa_guru_hw_14_daria_belevtseva/)
 2. Выбрать пункт `Build with Parameters`
 3. Выбрать тип запускаемых тестов в выпадающем списке Type_of_tests(ui, api, mobile)
 4. Выбрать контекст запускаемых тестов в выпадающем списке context(remote_web, bstack, api)
